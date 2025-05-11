@@ -74,7 +74,7 @@ body {
 
 /* Section 1: Welcome */
 .welcome-section {
-  background: url("back5.png") no-repeat center center / cover;
+  background: url("photo.jpg") no-repeat center center / cover;
   height:90vh;
   background-size: cover;
   image-rendering: crisp-edges;  
